@@ -1,0 +1,23 @@
+{
+  "name": "node-public-server-template",
+  "version": "1.0.0",
+  "description": "Just serve static webpage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jomoflash/node-public-server-template.git"
+  },
+  "author": "James Emmanuel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jomoflash/node-public-server-template/issues"
+  },
+  "homepage": "https://github.com/Jomoflash/node-public-server-template#readme",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3"
+  }
+}
